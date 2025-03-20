@@ -1,4 +1,40 @@
-## Hi there 👋
+Here’s your profile with the correct technologies extracted from your provided information:  
+
+---
+
+## Hi there 👋  
+
+### 🚀 About Me  
+💻 Passionate developer | 🧠 Always learning | 🌎 Open-source enthusiast  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NivekTakedown&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NivekTakedown&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NivekTakedown&theme=gotham&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 How to reach me  
+
+- 💼 LinkedIn: [Kevin Fabio Ramos López](https://www.linkedin.com/in/kevin-fabio-ramos-lopez/)  
+- 📧 Email: [kevinframosl@gmail.com](mailto:kevinframosl@gmail.com)  
+
+---
+
+🚀 *Always building, always learning!*  
+
 
 <!--
 **NivekTakedown/NivekTakedown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuusuario&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuusuario&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>

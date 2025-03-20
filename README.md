@@ -1,7 +1,4 @@
-Here’s your profile with the correct technologies extracted from your provided information:  
-
 ---
-
 ## Hi there 👋  
 
 ### 🚀 About Me  
@@ -18,10 +15,10 @@ Here’s your profile with the correct technologies extracted from your provided
 
 ---
 
-## 🔥 GitHub Streak  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NivekTakedown&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NivekTakedown&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -33,7 +30,7 @@ Here’s your profile with the correct technologies extracted from your provided
 
 ---
 
-🚀 *Always building, always learning!*  
+🚀 *Always building, always learning!*
 
 
 <!--

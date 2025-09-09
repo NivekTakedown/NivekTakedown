@@ -8,19 +8,20 @@ Systems & Computer Engineer · Backend Developer — Go, Python, Java
 
 ---
 
-
+## About me
 
 ```go
 package profile
 
 // Profile defines a minimal, idiomatic public profile structure.
 type Profile struct {
-	Name       string
-	Location   string
-	Education  []string
-	Experience []string
-	Tech       []string
-	Links      map[string]string
+	Name             string
+	Location         string
+	Education        []string
+	Experience       []string
+	FieldsOfInterest []string
+	Tech             []string
+	Links            map[string]string
 }
 
 // Me is the populated instance of Profile with Kevin's public info.
@@ -33,6 +34,13 @@ var Me = Profile{
 	Experience: []string{
 		"Software Developer — LAB101 (Strapi, Elasticsearch, Docker)",
 		"Development Analyst — Innovbo Group (Java, microservices)",
+	},
+	FieldsOfInterest: []string{
+		"Machine Learning",
+		"Natural language processing",
+		"Web development",
+		"DevOps",
+		"Automation",
 	},
 	Tech: []string{
 		"Go",
@@ -76,19 +84,9 @@ var Me = Profile{
 
 ---
 
-## Socials
 
-* LinkedIn: [https://www.linkedin.com/in/kevin-fabio-ramos-lopez/](https://www.linkedin.com/in/kevin-fabio-ramos-lopez/)
-* GitHub: [https://github.com/NivekTakedown](https://github.com/NivekTakedown)
-* Email: [kevinframosl@gmail.com](mailto:kevinframosl@gmail.com)
 
----
+## Let's Connect and have a Chat!
 
-## Contact me
-
-If you want to collaborate, review code, or discuss backend architecture and Go best practices:
-
-* For professional inquiries and collaborations, use LinkedIn or email above.
-* For quick technical questions or repo-specific issues, open an issue on the corresponding repository and tag me.
-* If you want a live walkthrough of a project (architecture, CI, deployment), propose a time via LinkedIn and include which repo you want to review.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kevin-fabio-ramos-lopez/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kevinframosl@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/NivekTakedown)
 

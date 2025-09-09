@@ -90,5 +90,5 @@ var Me = Profile{
 
 ## Let's Connect and have a Chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kevin-fabio-ramos-lopez/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kevinframosl@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/NivekTakedown)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kevin-fabio-ramos-lopez/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kevinframosl@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/NivekTakedown)
 
